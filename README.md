@@ -2,66 +2,88 @@
 
 
 ##  À propos de Moi
+Je suis Théo Mestries, un étudiant en informatique, je me spécialise principalement dans le développement Web et la gestion de bases de données. Vo
 
-Je suis Théo Mestries, un ancien étudiant ayant achevé mon parcours d'enseignement secondaire dans le domaine des Sciences et Technologies de l'industrie et du développement durable. Par la suite, j'ai complété mes études en Bachelor Universitaire de Technologie (BUT) en informatique à l'Université de Limoges. Je possède une nature de leader, une qualité que j'ai cultivée depuis le collège en dirigeant systématiquement les travaux de groupe. Cette approche m'a permis de ne pas être déçu par les autres et d'éviter la surcharge de travail. Mes compétences en gestion ont toujours été bien accueillies, souvent faisant l'objet d'éloges. Mon caractère de leader s'est renforcé grâce à mon autorité naturelle et à ma capacité à évaluer de manière critique, me permettant d'établir des objectifs clairs et réalistes en réponse aux propositions de mes camarades.
+* 🎓 Actuellement en troisème année de Bachelor en Informatique à l'IUT du Limousin.
+* 🌱 Je suis actuellement en continuel  apprentissage du  développement Web et la gestion de bases de données.
+* 🧑🏻‍💻 Je suis à la recherche d'un emploi dans ces domaines .
+* 🧠  N'hésitez pas à me contacter pour toute question ou suggestion ou collaboration.
 
-Au cours de mes années professionnelles, j'ai eu l'opportunité de collaborer avec une diversité de personnes, chacune ayant son caractère unique et sa méthode de travail distinctive. Cette variété n'a jamais constitué un obstacle pour moi, grâce à ma détermination qui m'a toujours permis de m'adapter à différentes situations tout en conservant un regard réaliste. Ma flexibilité a été un atout majeur, me permettant de comprendre et de m'adapter aux méthodes de travail et aux personnalités des autres, afin de diriger les projets de la manière la plus efficace.
 
-Je suis reconnu pour mon honnêteté, ce qui peut parfois être perçu comme un peu direct, surtout lorsqu'il s'agit de sujets délicats pouvant contrarier ou embarrasser autrui. Bien que cette franchise m'ait parfois porté préjudice, j'ai toujours choisi de la maintenir, malgré les conseils contraires, car elle constitue une part essentielle de qui je suis.
+## Compétences Techniques
+Les langages, frameworks et outils que j'ai utilisé ou que j'utilise actuellement sont les suivants:
 
-Enfin, je me considère comme une personne rationnelle, ayant une confiance profonde dans les faits et théories établis par les différentes branches scientifiques. Par ailleurs, ma passion pour les jeux de société, développée au fil des années, a affiné mon sens de la réflexion et ma capacité à rester serein dans des situations complexes.
+Langages de Programmation:
+![Kotlin](https://camo.githubusercontent.com/042c0b5336e68bb007e07e3ef593bfbfb0ebd631903125060abb112fd80f69fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3746353246463f7374796c653d666c6174266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465)
+![Java](https://camo.githubusercontent.com/7504f3ce76e9500a3c7b333c37adcd4f085f74ff7ef6b5ce4e4265a3c2e7dd54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d7265643f7374796c653d666c6174266c6f676f3d6a617661)
+![Python](https://camo.githubusercontent.com/c6e82b13d16e214f19de687576ad802570a1de7a61b830e09c446eadf82833d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c75653f7374796c653d666c6174266c6f676f3d707974686f6e)
+![HTML](https://camo.githubusercontent.com/8989b965881213ace52908c25d06d9bb0d0e6185df398a86f1480ed36545a4df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d626c61636b3f7374796c653d666c6174266c6f676f3d68746d6c35)
+![CSS](https://camo.githubusercontent.com/0cfec20ff362087c62b4cac919d821ec1379b6824a17cd5f028d63be02c00839/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d7265643f7374796c653d666c6174266c6f676f3d63737333)
+![JavaScript](https://camo.githubusercontent.com/ff1f0bf34affc6d2a530329de6099688e5935ce628b65dd5a0bd26634622f161/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d79656c6c6f773f7374796c653d666c6174266c6f676f3d6a617661736372697074)
+![SQL](https://camo.githubusercontent.com/ed667c64a23029577eac0130fb82f1369543672b1d399e282490e6237ddc6ad8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3434373941313f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+![PHP](https://camo.githubusercontent.com/b9aaefc7c5a13598555495b9a440af7b85d1ce16004e99c39c880ab73208769a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3737374242343f7374796c653d666c6174266c6f676f3d706870)
+![C++](https://camo.githubusercontent.com/9f7a3bc96bc5d86d57a8a9a4bb85b2ec8c8af7f6bd2eb20ba644f353a83cbb22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c6174266c6f676f3d63706c7573706c7573)
 
-## Objectif de Carrière
+Frameworks:
+![React](https://camo.githubusercontent.com/4de13f63f9737ce6c7a7c6805e71b4e87ac741df4b5fa388d1ed4d2bab4867d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c6174266c6f676f3d7265616374)
+![Node.js](https://camo.githubusercontent.com/34551bc311bb0419fd14571310f10e6f3a8b7f2b48b3f06a93323fbb93854b2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d677265656e3f7374796c653d666c6174266c6f676f3d6e6f64652e6a73)
+![Spring](https://camo.githubusercontent.com/ea7f98b1733f0cde2ec75367416c69c28cdbfd90356c8aaea69a800587afe174/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666c6174266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
+![Laravel](https://camo.githubusercontent.com/f2d0e716a8e526cca817157ea92d64f485c4e372cb77fa42c809e62cca43ef08/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f7374796c653d666c6174266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465)
+![Symfony](https://camo.githubusercontent.com/afbfb7d3ef066867c564ca5d27dca4348810007306cc18d18dc7dddaa0e99cd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53796d666f6e792d3030303030303f7374796c653d666c6174266c6f676f3d73796d666f6e79266c6f676f436f6c6f723d7768697465)
+![Boostrap](https://camo.githubusercontent.com/ed120488de1171ad280d8413f26c9ca3ef07d7bad118605a5fc723fbda0e8dee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
+![Tailwind CSS](https://camo.githubusercontent.com/56924585db6208d5d4e0038ea6ab1a776992aa71d5e5de3800d63872c8ad4e77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666c6174266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465)
 
-Mon projet professionnel s'oriente vers un domaine qui me fascine depuis le début de mon enseignement secondaire. Ce domaine, c'est la technologie, un secteur vaste dans lequel j'ai choisi de me spécialiser en informatique. L'informatique, avec ses multiples applications, offre un univers riche en possibilités.
+Outils:
+![Git](https://camo.githubusercontent.com/247482f492e6ae85ac3ff395730acfdf85d3b98198096e772da9fb315de1f484/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![GitHub](https://camo.githubusercontent.com/45f27e5a6c3a058ce27cfa3c827d5e1e9eba6e1e2bcedf36c76b0c49e0128916/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
+![GitLab](https://camo.githubusercontent.com/0e2736b5f00e6d29cd3e7ed82a8e4b737e4cb5b9c15b1927e60962b02becde44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d4643413132313f7374796c653d666c6174266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465)
+![Docker](https://camo.githubusercontent.com/ac714576a0fb2824ce579c68ae1fe7589cb861a345c8d49ce28210607da7c78e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
+![Visual Studio Code](https://camo.githubusercontent.com/ef0d6332dd87a85e8982281150dd629b21a4b68dff7bf5dfe16c36a35e2ea4fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)
+![IntelliJ IDEA](https://camo.githubusercontent.com/5b4faf328284832483cd246102a4fcd07941184062f21314c147f35a2abbb054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a5f494445412d3030303030303f7374796c653d666c6174266c6f676f3d696e74656c6c696a2d69646561266c6f676f436f6c6f723d7768697465)
+![Visual Studio](https://camo.githubusercontent.com/8f04ca4e12dcbf062181bc59e2d245387667979443983f42f3bdf8dd6b7ecd71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f2d3543324439313f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465)
 
-Je me dirige spécifiquement vers le métier d'administrateur de bases de données ou celui de développeur Web. En répondant aux diverses exigences des clients exprimées dans leurs cahiers des charges. J'aspire à évoluer dans ce domaine, avec pour ambition ultime de devenir chef de projet. Ce rôle me permettrait, à terme, de diriger ma propre équipe, réalisant ainsi une progression significative dans ma carrière.
+
+Databases:
+![MySQL](https://camo.githubusercontent.com/ae3b51442a34528bad2560393ca3bc166f529837a8069c164657c6daec98bb5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d77686974653f7374796c653d666c6174266c6f676f3d6d7973716c)
+![PostgreSQL](https://camo.githubusercontent.com/e9dd3891765ae1e18fceb6f0575f3750c1da4e2273dff3415e70f4d43364beb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+![MongoDB](https://camo.githubusercontent.com/0764e00bb391ab7b2f9941f3e24f53f3739327b796a8ebe9ec0174ea1d9e1d75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+![SQLite](https://camo.githubusercontent.com/42c2a4b5dc3cc8839fa5e7f180edcd693df2f8fd0f8fede321ab070671c871a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3030334235373f7374796c653d666c6174266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)
+![MariaDB](https://camo.githubusercontent.com/d1e984541af4b4549ec06c2699953df8bfbfc971c0baa996e46547e7c33786e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d3030333534353f7374796c653d666c6174266c6f676f3d6d617269616462266c6f676f436f6c6f723d7768697465)
+
+## Mes Projets
+
+Voici quelques projets que j'ai réalisé ou auxquels j'ai participé et vous y retrouverez sur chacun d'entre eux un récapitulatif de mes compétences utilisées.:
+
+* [Suite de Mini-Jeux en Python](https://github.com/TheoMestries/Minigames)
+* [Jeu Latice en Java](https://github.com/TheoMestries/Latice)
+* [Site Web Symfony](https://github.com/TheoMestries/R5A.05_Symfony)
+* [Site Web Laravel](https://github.com/TheoMestries/R5A05_Laravel)
+* [Application Android Kotlin ToDoList](https://github.com/TheoMestries/TodoFast)
+* [Application Xamarin C#](https://github.com/TimoMet/TimotheeTheoSpotifyApp)
+* [Application Android Kotlin Service Truckers](https://github.com/paul-rezzonico/truckers)
+
 
 ## Compétences 
 
 ### **SoftSkills**
 
-En matière de communication, je me distingue par une écoute attentive et une maîtrise approfondie de la communication verbale, non verbale et visuelle. Mon esprit critique est aiguisé, et je fais preuve d'adaptabilité, de créativité et d'innovation, tout en ayant une forte volonté d'apprendre continuellement.
+Langues
+* Français : Langue maternelle
+* Anglais : Niveau B2
 
-Sur le plan du leadership, j'ai fréquemment été placé en position de meneur, tant dans les projets réalisés durant mes études qu'en interactions sociales. J'apprécie gérer les équipes, prendre des décisions, fournir des retours constructifs et résoudre les conflits.
+Communication
+* Capacité de Communication : Aptitude à communiquer efficacement, à travailler en équipe et à s'adapter rapidement à de nouvelles situations et environnements.
 
-De manière plus générale, je me considère comme une personne honnête et lucide, capable de coopération et de travail d'équipe. 
+Résolution de Problèmes
+* Analyse et Réflexion : Compétences solides en analyse et en réflexion, permettant une résolution efficace des problèmes.
 
-### **HardSkills**
+Organisation
+* Gestion du Temps : Excellentes capacités d'organisation et de gestion du temps, garantissant une approche méthodique et ordonnée dans toutes les tâches.
 
-Avec une formation en informatique, je maîtrise plusieurs langages de programmation, dont Python et Java. En plus de ces compétences, je suis versé dans la gestion de données via SQL et possède des connaissances approfondies sur la conception interne et externe d'un ordinateur.
+Autonomie
+* Travail Autonome et Initiative : Capacité à travailler de manière autonome et à prendre des initiatives, tout en restant flexible et adaptable à diverses exigences de travail.
 
-Je dispose également de compétences en développement front-end pour la création de sites web. En ce qui concerne l'utilisation de logiciels, je suis familiarisé avec des outils basiques comme Word, Excel, PowerPoint, etc., et je suis confiant dans ma capacité à m'adapter rapidement à l'apprentissage de nouveaux logiciels.
+### **Me Contacter**
 
-### **Langages**
-
-Je possède une maîtrise intermédiaire supérieure (niveau B2) de l'anglais, grâce à une pratique régulière tant dans mes études que dans ma vie personnelle. J'ai également des connaissances de base en espagnol, qui sont modestes mais suffisantes dans certaines situations.
-
-## Travaux 
-
-### Suite de Mini-Jeux en Python
-
-**Description:**
-
-Ce projet consiste en une application Python interactive regroupant plusieurs mini-jeux. L'objectif était de créer une expérience ludique et engageante pour deux joueurs, avec la possibilité de jouer soit entre humains, soit contre une intelligence artificielle.
-
-https://github.com/TheoMestries/Minigames
-
-**Jeux Inclus:**
-* Jeu des Devinettes : Un jeu interactif où un joueur pense à un objet ou un concept, et l'autre joueur essaie de le deviner en posant des questions qui ne peuvent être répondues que par 'oui' ou 'non'.
-* Jeu des Allumettes : Ce jeu classique consiste à retirer des allumettes d'un tas selon des règles spécifiques, où l'objectif est de forcer l'adversaire à prendre la dernière allumette.
-* Morpion (Tic-Tac-Toe) : Un jeu de stratégie simple mais captivant où deux joueurs placent alternativement des symboles dans une grille 3x3, cherchant à aligner trois symboles consécutifs pour gagner.
-* Puissance 4 : Un jeu tactique où les joueurs insèrent à tour de rôle des jetons dans une grille, visant à aligner quatre jetons de leur couleur, que ce soit horizontalement, verticalement, ou en diagonale.
-
-**Compétences acquises** 
-
-Ce projet m'a permis de développer plusieurs compétences fondamentales, notamment :
-
-* Conception et Implémentation : J'ai appris à mettre en œuvre des concepts de base en programmation, me permettant de tester et d'évaluer mes idées en pratique.
-* Analyse Méthodique : J'ai acquis la capacité d'analyser méthodiquement des problèmes et d'explorer des solutions pertinentes.
-* Introduction aux Algorithmes : Lors de ce projet j'ai commencé à explorer le domaine des algorithmes, en apprenant à comprendre et comparer différentes approches pour des problèmes classiques, bien que mon apprentissage dans ce domaine était toujours en cours.
-
-### Jeu Latice en Java 
-
-**Description**
-
+* LinkedIn : https://www.linkedin.com/in/th%C3%A9o-mestries-679902253
+* Mail : Theo.203@hotmail.com
